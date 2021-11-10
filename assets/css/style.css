@@ -192,3 +192,11 @@ hr {
     border: 2px solid white;
     box-sizing: border-box;
 }
+
+.feel-healthy {
+    margin: 5px 0;
+}
+
+#times h2 {
+    color: #fafafa
+}
